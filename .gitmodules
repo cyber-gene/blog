@@ -1,0 +1,3 @@
+[submodule "themes/dimension"]
+	path = themes/dimension
+	url = https://gitlab.com/dspechnikov/dimension-hugo

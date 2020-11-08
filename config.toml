@@ -1,0 +1,13 @@
+baseURL = "http://blog.cyber-gene.com/"
+languageCode = "ja"
+title = "cybergene's log"
+theme = "dimension"
+
+[params]
+    author = "cybergene"
+    description = ""
+    copyrightPublishYear = "2020"
+    copyrightText = "cybergene"
+
+[taxonomies]
+tag = "tags"
