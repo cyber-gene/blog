@@ -89,7 +89,7 @@ Netlify にデプロイするには、自分のリポジトリである必要が
 
 Webブラウザの開発者ツールを使って、本当に410を返してるのか見てみましょう。ステータスが410になっていますね？
 
-![Netlify confirm 1](ttps://blog.cyber-gene.com/netlify-confirm-1.png)
+![Netlify confirm 1](https://blog.cyber-gene.com/netlify-confirm-1.png)
 
 他のサーバーから配信を受ける /inbox も見てみましょう。410なのでオッケー。
 
