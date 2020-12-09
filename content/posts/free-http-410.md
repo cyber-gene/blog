@@ -4,6 +4,8 @@ date: 2020-12-09T01:43:04+09:00
 draft: false
 ---
 
+この記事のオリジナルは [こちら](https://www.notion.so/cybergene/410-6a5d339622a649a3a90b4a5da56bd7a7)
+
 この記事は Fediverse Advent Calendar 2020 9日目の記事です。
 
 昨日の記事は、Fediverse でおなじみのコーヒー豆屋さんNelson Coffee Roasterさんの仙台でおすすめのお店記事でした。
