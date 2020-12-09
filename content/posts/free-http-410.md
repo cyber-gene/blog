@@ -63,11 +63,11 @@ Netlify にデプロイするには、自分のリポジトリである必要が
 
     連携させると、リポジトリを選択するのが出てくるので、netlify-410 を選択
 
-    ![Netlify step 2](https://blog.cyber-gene.com/netlify-step2)
+    ![Netlify step 2](https://blog.cyber-gene.com/netlify-step2.png)
 
     ビルド設定はそのままで動きます。Deploy siteを押すとサイトができます。
 
-    ![Netlify step 3](https://blog.cyber-gene.com/netlify-step3)
+    ![Netlify step 3](https://blog.cyber-gene.com/netlify-step3.png)
 
     ドメインの設定をします。
 
@@ -83,17 +83,17 @@ Netlify にデプロイするには、自分のリポジトリである必要が
 
     こんな画面が出ていればOKです！
 
-    ![Netlify step 4](https://blog.cyber-gene.com/netlify-step4)
+    ![Netlify step 4](https://blog.cyber-gene.com/netlify-step4.png)
 
 ## 本当に410返してんの？
 
 Webブラウザの開発者ツールを使って、本当に410を返してるのか見てみましょう。ステータスが410になっていますね？
 
-![Netlify confirm 1](ttps://blog.cyber-gene.com/netlify-confirm-1)
+![Netlify confirm 1](ttps://blog.cyber-gene.com/netlify-confirm-1.png)
 
 他のサーバーから配信を受ける /inbox も見てみましょう。410なのでオッケー。
 
-![Netlify confirm 2](ttps://blog.cyber-gene.com/netlify-confirm-2)
+![Netlify confirm 2](ttps://blog.cyber-gene.com/netlify-confirm-2.png)
 
 これで、410を無料で連合しているサーバーに返すことができます。
 
