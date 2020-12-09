@@ -93,7 +93,7 @@ Webブラウザの開発者ツールを使って、本当に410を返してる�
 
 他のサーバーから配信を受ける /inbox も見てみましょう。410なのでオッケー。
 
-![Netlify confirm 2](ttps://blog.cyber-gene.com/netlify-confirm-2.png)
+![Netlify confirm 2](https://blog.cyber-gene.com/netlify-confirm-2.png)
 
 これで、410を無料で連合しているサーバーに返すことができます。
 
